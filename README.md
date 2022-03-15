@@ -1,4 +1,4 @@
-# Linear regression with Perceptron to classify iris
+# Linear regression with a Perceptron.
 
 Perceptron implementation using Numpy Python.
 
