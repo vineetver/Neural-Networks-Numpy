@@ -1,5 +1,17 @@
 # Neural Networks Numpy
 
+
+### Requirements
+
+```
+numpy,
+pandas,
+scipy,
+scikit-learn,
+matplotlib,
+seaborn
+```
+
 ### Contents
 
 - [Perceptron](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Percptron)
