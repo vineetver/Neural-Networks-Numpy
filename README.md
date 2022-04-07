@@ -1,5 +1,6 @@
 # Neural Networks Numpy
 
+This repository is to implement neural network concepts from scratch.
 
 ### Requirements
 
