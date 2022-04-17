@@ -1,20 +1,3 @@
-# Neural Networks Numpy
-
-
-### Requirements
-
-```
-
-```
-
-### Contents
-
-- [Perceptron](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Percptron)
-- [Gradient Descent](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Gradient%20Descent)
-- [Multilayer Perceptron](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Multilayer%20Perceptron) 
-- Coming soon (CNN)
-
-
 ## About
 
 This repository is to implement neural network concepts from scratch.
@@ -51,9 +34,9 @@ List of all the libraries you need to run the code.
 
 ## Roadmap
 
-- [x] Perceptron
-- [x] Multilayer Perceptron
-- [x] Gradient Descent
+- [x] [Perceptron](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Percptron)
+- [x] [Multilayer Perceptron](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Multilayer%20Perceptron) 
+- [x] [Gradient Descent](https://github.com/vineetver/Neural-Networks-Numpy/tree/main/Gradient%20Descent)
 - [ ] CNN
 - [ ] RNN
 
