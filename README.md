@@ -4,7 +4,7 @@ This repository is to implement neural network concepts from scratch.
 
 ## Getting Started
 
-### Dependancies
+### Dependencies
 
 List of all the libraries you need to run the code.
 
