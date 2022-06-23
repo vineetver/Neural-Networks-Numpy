@@ -2,11 +2,7 @@
 
 This repository is to implement neural network concepts from scratch.
 
-## Getting Started
-
-### Dependencies
-
-List of all the libraries you need to run the code.
+## Dependencies
 
   ```sh
   python 3.x
@@ -18,8 +14,6 @@ List of all the libraries you need to run the code.
   seaborn
   ```
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
   ```sh
